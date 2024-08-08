@@ -40,7 +40,7 @@ The goal of this project is to apply machine learning techniques to a healthcare
 - Model Evaluation: Assessing the performance of models using metrics like accuracy, precision, recall, and F1-score.
 
 
-## 🎖️: Results
+## 🎖️ Results
 
 The models built in this project are evaluated using several metrics, and the best-performing model is identified based on its ability to predict strokes effectively.
 
