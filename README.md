@@ -23,10 +23,10 @@ Welcome to the Healthcare Stroke Data Machine Learning Analysis project! This re
 The goal of this project is to apply machine learning techniques to a healthcare dataset to predict the likelihood of a stroke. This notebook covers the entire process from data cleaning and preprocessing to model building and evaluation.
 ## 🪶 Features
 
-- Data Cleaning: Handling missing values, data transformation, and feature selection.
-- Exploratory Data Analysis (EDA): Visualizations and insights into the dataset's key features.
-- Feature Engineering: Scaling and transforming features to prepare for model training.
-- Model Building: Training and tuning various machine learning models, including:
+**Data Cleaning**: Handling missing values, data transformation, and feature selection.
+**Exploratory Data Analysis (EDA)**: Visualizations and insights into the dataset's key features.
+**Feature Engineering**: Scaling and transforming features to prepare for model training.
+**Model Building**: Training and tuning various machine learning models, including:
     
 - Random Forest
 - Bagging Classifier
