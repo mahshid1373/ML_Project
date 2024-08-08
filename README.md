@@ -1,27 +1,27 @@
 
-# Healthcare Heart Failure Data Machine Learning Analysis
+# 💊 Healthcare Heart Failure Data Machine Learning Analysis 🩺
 
 
 
-## Authors
+## 🖋️ Authors
 
 - <Insert Reetu's Github profile here>
 - [@mahshid1373](https://github.com/mahshid1373)
 - [@fjkhan86](https://github.com/fjkhan86)
 
 
-## Notebook Structure
+## 👣 Notebook Structure
 - Introduction
 - Data Cleaning
 - Exploratory Data Analysis
 - Feature Engineering
 - Modeling
 - Conclusion
-## Overview
+## 📎  Overview
 Welcome to the Healthcare Stroke Data Machine Learning Analysis project! This repository contains a Jupyter notebook that performs data analysis and builds machine learning models to predict stroke occurrences based on healthcare data.
 
 The goal of this project is to apply machine learning techniques to a healthcare dataset to predict the likelihood of a stroke. This notebook covers the entire process from data cleaning and preprocessing to model building and evaluation.
-## Features
+## 🪶 Features
 
 - Data Cleaning: Handling missing values, data transformation, and feature selection.
 - Exploratory Data Analysis (EDA): Visualizations and insights into the dataset's key features.
@@ -40,7 +40,7 @@ The goal of this project is to apply machine learning techniques to a healthcare
 - Model Evaluation: Assessing the performance of models using metrics like accuracy, precision, recall, and F1-score.
 
 
-## :military medal: Results
+## 🎖️: Results
 
 The models built in this project are evaluated using several metrics, and the best-performing model is identified based on its ability to predict strokes effectively.
 
