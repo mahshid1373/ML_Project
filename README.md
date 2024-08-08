@@ -5,7 +5,7 @@
 
 ## 🖋️ Authors
 
-- <Insert Reetu's Github profile here>
+- [@reetusharma1209](https://github.com/reetusharma1209)
 - [@mahshid1373](https://github.com/mahshid1373)
 - [@fjkhan86](https://github.com/fjkhan86)
 
