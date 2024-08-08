@@ -24,8 +24,11 @@ The goal of this project is to apply machine learning techniques to a healthcare
 ## 🪶 Features
 
 **Data Cleaning**: Handling missing values, data transformation, and feature selection.
+
 **Exploratory Data Analysis (EDA)**: Visualizations and insights into the dataset's key features.
+
 **Feature Engineering**: Scaling and transforming features to prepare for model training.
+
 **Model Building**: Training and tuning various machine learning models, including:
     
 - Random Forest
@@ -37,14 +40,19 @@ The goal of this project is to apply machine learning techniques to a healthcare
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
 - Decision Trees
-- Model Evaluation: Assessing the performance of models using metrics like accuracy, precision, recall, and F1-score.
 
 
 ## 🎖️ Results
 
+Model Evaluation: Assessing the performance of models using metrics like accuracy, precision, recall, and F1-score
+
 The models built in this project are evaluated using several metrics, and the best-performing model is identified based on its ability to predict strokes effectively.
 
-<Insert Best Performing Model Here>
+The best performing model is Random Forest.  
+
+![image](https://github.com/user-attachments/assets/54f4bfb4-59bc-4767-8a43-1f79d33267b3)
+
+
 ## Installation
 
 Install my-project with npm
