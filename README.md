@@ -52,6 +52,8 @@ The best performing model is Random Forest.
 
 ![image](https://github.com/user-attachments/assets/54f4bfb4-59bc-4767-8a43-1f79d33267b3)
 
+We found the correlation between samples here :
+
 ![Data Visualization](heatmap.png)
 
 ## Installation
