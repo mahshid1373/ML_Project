@@ -53,6 +53,7 @@ The best performing model is Random Forest.
 ![image](https://github.com/user-attachments/assets/54f4bfb4-59bc-4767-8a43-1f79d33267b3)
 
 
+
 ## Installation
 
 Install my-project with npm
@@ -70,9 +71,4 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
